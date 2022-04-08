@@ -1,8 +1,19 @@
-:root{
-    --cyan:#00FFF8;
-    --dark-blue-main:#0D192C;
-    --dark-blue-card:#15263F;
-    --dark-blue-line:#2E405A;
-    --soft-blue:#8BACD9;
-    --white:#FFFFFF;
+:root {
+  --cyan: #00fff8;
+  --dark-blue-main: #0d192c;
+  --dark-blue-card: #15263f;
+  --dark-blue-line: #2e405a;
+  --soft-blue: #8bacd9;
+  --white: #ffffff;
+}
+
+body {
+  background-color: var(--dark-blue-main);
+  color: var(--soft-blue);
+  font-size: 18px;
+  font-weight: 300;
+  min-height: 100vh;
+  position: relative;
+  width: 375px;
+  height: 667px;
 }

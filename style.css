@@ -13,6 +13,8 @@ body {
   font-size: 18px;
   font-weight: 300;
   min-height: 100vh;
+  display: flex;
+  align-items: center;
   position: relative;
   width: 375px;
   height: 667px;

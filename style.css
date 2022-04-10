@@ -67,3 +67,9 @@ body {
   margin-left: 24px;
   margin-top: 16px;
 }
+
+.data__eth {
+  width: 88.48px;
+  height: 19px;
+  position: relative;
+}

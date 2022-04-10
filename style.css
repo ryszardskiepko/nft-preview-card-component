@@ -44,4 +44,6 @@ body {
   height: 278px;
   border-radius: 8px;
   position: relative;
+  top: 24px;
+  left: 24px;
 }

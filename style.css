@@ -102,3 +102,9 @@ body {
   font-size: 15px;
   line-height: 19px;
 }
+
+.img-clock {
+  width: 16px;
+  height: 16px;
+  margin-top: 1.67px;
+}

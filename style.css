@@ -72,6 +72,8 @@ body {
   width: 88.48px;
   height: 19px;
   position: relative;
+  display: flex;
+  justify-content: space-between;
 }
 
 .count-eth {

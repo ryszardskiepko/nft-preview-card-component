@@ -88,3 +88,11 @@ body {
   height: 18px;
   margin-top: 1px;
 }
+
+.data__days {
+  width: 92.69px;
+  height: 19px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}

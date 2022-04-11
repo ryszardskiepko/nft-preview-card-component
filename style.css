@@ -96,3 +96,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.count-days {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+}

@@ -82,3 +82,9 @@ body {
   font-size: 15px;
   line-height: 19px;
 }
+
+.img-ethereum {
+  width: 11px;
+  height: 18px;
+  margin-top: 1px;
+}

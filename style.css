@@ -125,3 +125,8 @@ body {
   border: 1px solid #ffffff;
   box-sizing: border-box;
 }
+
+.credits__name {
+  width: 170px;
+  height: 19px;
+}

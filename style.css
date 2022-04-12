@@ -130,3 +130,10 @@ body {
   width: 170px;
   height: 19px;
 }
+
+.credits-name {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: var(--white);
+}

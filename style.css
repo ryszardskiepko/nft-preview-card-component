@@ -115,4 +115,6 @@ body {
   margin-left: 24px;
   margin-top: 33px;
   position: relative;
+  display: flex;
+  justify-content: space-between;
 }

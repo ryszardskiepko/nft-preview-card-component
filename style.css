@@ -160,4 +160,14 @@ body {
     left: 545px;
     top: 152px;
   }
+
+  .nft__header {
+    color: var(--white);
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27.72px;
+    margin-top: 24px;
+    margin-left: 24px;
+    position: relative;
+  }
 }

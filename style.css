@@ -179,4 +179,14 @@ body {
     top: 24px;
     left: 24px;
   }
+
+  .nft__description {
+    color: var(--soft-blue);
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 12px;
+    margin-left: 24px;
+    text-align: left;
+  }
 }

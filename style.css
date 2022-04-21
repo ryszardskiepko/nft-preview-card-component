@@ -198,4 +198,12 @@ body {
     margin-left: 24px;
     margin-top: 24px;
   }
+
+  .data__eth {
+    width: 93.48px;
+    height: 20px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+  }
 }

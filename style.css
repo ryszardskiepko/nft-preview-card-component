@@ -213,4 +213,12 @@ body {
     font-size: 16px;
     line-height: 20px;
   }
+
+  .count-days {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    width: 73px;
+    height: 20px;
+  }
 }

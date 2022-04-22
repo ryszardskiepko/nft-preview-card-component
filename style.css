@@ -242,4 +242,9 @@ body {
     display: flex;
     justify-content: space-between;
   }
+
+  .credits-creation {
+    width: 181px;
+    height: 20px;
+  }
 }

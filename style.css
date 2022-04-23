@@ -17,6 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
+  font-family: "Outfit", sans-serif;
 }
 
 .container {

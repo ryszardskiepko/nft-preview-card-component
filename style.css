@@ -270,4 +270,8 @@ body {
   .nft__header:hover {
     color: var(--cyan);
   }
+
+  .credits-name:hover {
+    color: var(--cyan);
+  }
 }

@@ -41,7 +41,7 @@ body {
   position: relative;
 }
 
-.img-equilibrium {
+.header {
   width: 278px;
   height: 278px;
   border-radius: 8px;
@@ -172,7 +172,7 @@ body {
     position: relative;
   }
 
-  .img-equilibrium {
+  .header {
     width: 302px;
     height: 302px;
     border-radius: 8px;

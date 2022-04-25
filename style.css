@@ -183,6 +183,19 @@ body {
     left: 24px;
   }
 
+  .header:hover {
+    background-image: url("./images/image-equilibrium.jpg");
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+    position: relative;
+    top: 24px;
+    left: 24px;
+    background: #00fff8;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+  }
+
   .nft__description {
     color: var(--soft-blue);
     font-weight: 300;

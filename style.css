@@ -42,7 +42,6 @@ body {
 }
 
 .img-equilibrium {
-  /*background-image: url("./images/image-equilibrium.jpg");*/
   width: 278px;
   height: 278px;
   border-radius: 8px;
@@ -174,7 +173,6 @@ body {
   }
 
   .img-equilibrium {
-    /*background-image: url("./images/image-equilibrium.jpg");*/
     width: 302px;
     height: 302px;
     border-radius: 8px;
@@ -184,7 +182,6 @@ body {
   }
 
   .img-equilibrium:hover {
-    /*background-image: url("./images/image-equilibrium.jpg");*/
     width: 302px;
     height: 302px;
     border-radius: 8px;

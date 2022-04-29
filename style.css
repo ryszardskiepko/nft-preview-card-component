@@ -124,7 +124,7 @@ body {
 .img-avatar {
   width: 33px;
   height: 33px;
-  border: 1px solid #ffffff;
+  border: 1px solid var(--white);
   box-sizing: border-box;
 }
 
@@ -189,7 +189,7 @@ body {
     position: relative;
     top: 24px;
     left: 24px;
-    background: #00fff8;
+    background: var(--cyan);
     mix-blend-mode: normal;
     opacity: 0.5;
   }
@@ -241,7 +241,7 @@ body {
     height: 16px;
     margin-top: 2.67px;
     margin-right: 7.7px;
-    background: #000000;
+    background: var(--black);
     mix-blend-mode: normal;
     opacity: 0;
     transform: rotate(180deg);

@@ -192,6 +192,7 @@ body {
     background: var(--cyan);
     mix-blend-mode: normal;
     opacity: 0.5;
+    cursor: pointer;
   }
 
   .nft__description {
@@ -281,10 +282,12 @@ body {
   }
 
   .nft__header:hover {
+    cursor: pointer;
     color: var(--cyan);
   }
 
   .credits-name:hover {
+    cursor: pointer;
     color: var(--cyan);
   }
 }

@@ -296,4 +296,8 @@ body {
     cursor: pointer;
     color: var(--cyan);
   }
+
+  .img-view {
+    display: none;
+  }
 }

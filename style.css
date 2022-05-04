@@ -157,6 +157,10 @@ body {
   background-color: var(--dark-blue-line);
 }
 
+.img-view {
+  display: none;
+}
+
 @media (min-width: 351px) {
   .container {
     background-color: var(--dark-blue-card);

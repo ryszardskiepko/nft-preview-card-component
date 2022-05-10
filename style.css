@@ -327,4 +327,12 @@ body {
     align-items: center;
     justify-content: space-between;
   }
+
+  .img-avatar {
+    width: 33px;
+    height: 33px;
+    border: 1px solid var(--white);
+    box-sizing: border-box;
+    border-radius: 50%;
+  }
 }

@@ -171,6 +171,12 @@ body {
   display: none;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 @media (min-width: 351px) {
   .container {
     background-color: var(--dark-blue-card);

@@ -142,6 +142,7 @@ body {
   height: 33px;
   border: 1px solid var(--white);
   box-sizing: border-box;
+  border-radius: 50%;
 }
 
 .credits-creation {

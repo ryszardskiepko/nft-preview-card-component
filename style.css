@@ -340,4 +340,9 @@ body {
     box-sizing: border-box;
     border-radius: 50%;
   }
+
+  .data__eth,
+  .data__days {
+    display: inline;
+  }
 }

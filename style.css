@@ -178,6 +178,11 @@ body {
   justify-content: space-between;
 }
 
+.data__eth,
+.data__days {
+  display: inline;
+}
+
 @media (min-width: 351px) {
   .container {
     background-color: var(--dark-blue-card);

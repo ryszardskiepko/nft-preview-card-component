@@ -157,9 +157,9 @@ body {
   color: var(--white);
 }
 
-.data::after {
+.credits::before {
   content: "";
-  display: block;
+  display: inline;
   position: relative;
   width: 278px;
   height: 1px;
